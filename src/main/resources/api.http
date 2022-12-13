@@ -1,0 +1,16 @@
+GET localhost:8086
+Accept: application/json
+
+###
+GET localhost:8086/data
+###
+GET localhost:8086/sources
+
+###
+GET localhost:8086/sourse/google.com
+
+###
+GET localhost:8086/email
+
+###
+GET localhost:8086/phone
